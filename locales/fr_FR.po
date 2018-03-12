@@ -1,0 +1,177 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-04-23 20:42+0200\n"
+"PO-Revision-Date: 2017-06-29 18:17+0200\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.0.1\n"
+
+#: General
+msgid "gen_plugin_name"
+msgstr "ROUTIN - Gestion des tâches"
+
+#: General
+msgid "gen_menu_name"
+msgstr "Tâches ROUTIN"
+
+#: General
+msgid "gen_profil_general"
+msgstr "Général"
+
+#: General
+msgid "gen_profil_mgmt_list"
+msgstr "Gestion des listes"
+
+#: General
+msgid "gen_profil_msg"
+msgstr "Les permissions de Purge (Suppression définitive) ne doivent être mise que pour les profils Admin et Super Admin"
+
+#: General
+msgid "gen_list_states"
+msgstr "Liste des états"
+
+#: General
+msgid "gen_type_tasks"
+msgstr "Type de tâches"
+
+#: General
+msgid "gen_type_archives"
+msgstr "Type d'archives"
+
+#: General
+msgid "gen_type_verification"
+msgstr "Type de vérification"
+
+#: General
+msgid "gen_list_calendars"
+msgstr "Calendriers (standard GLPI)"
+
+#: General
+msgid "gen_comment"
+msgstr "Commentaire"
+
+#: General
+msgid "gen_description"
+msgstr "Description"
+
+#: General
+msgid "gen_msg_error_1"
+msgstr "Message d'erreur n°1"
+
+#: General
+msgid "gen_msg_error_2"
+msgstr "Message d'erreur n°2"
+
+#: Taches
+msgid "task_task"
+msgid_plural "task_tasks"
+msgstr[0] "Tâche"
+msgstr[1] "Tâches"
+
+#: Taches
+msgid "task_with_cartridges"
+msgstr "Avec gestion des bandes"
+
+#: Rapports
+msgid "report_report"
+msgid_plural "report_reports"
+msgstr[0] "Rapport"
+msgstr[1] "Rapports"
+
+#: Rapports
+msgid "report_date_report"
+msgstr "Date du rapport"
+
+#: Rapports
+msgid "report_technician"
+msgstr "Vérificateur"
+
+#: Rapports
+msgid "report_task_number"
+msgstr "N°"
+
+#: Rapports
+msgid "report_task_realized"
+msgstr "Tâche réalisée"
+
+#: Rapports
+msgid "report_task_task"
+msgstr "Nom de la tâche"
+
+#: Rapports
+msgid "report_task_state"
+msgstr "Résultat"
+
+#: Rapports
+msgid "report_task_date"
+msgstr "Date de réalisation"
+
+#: Rapports
+msgid "report_task_cartridges"
+msgstr "Bandes utilisées"
+
+#: Archives
+msgid "archive_archive"
+msgid_plural "archive_archives"
+msgstr[0] "Archive"
+msgstr[1] "Archives"
+
+#: Archives
+msgid "archive_technician"
+msgstr "Responsable"
+
+#: Archives
+msgid "archive_date_archive"
+msgstr "Date de mise en archive"
+
+#: Archives
+msgid "archive_list_cartridges"
+msgstr "Liste des bandes"
+
+#: Bandes
+msgid "cartridge_cartridge"
+msgid_plural "cartridge_cartridges"
+msgstr[0] "Bande"
+msgstr[1] "Bandes"
+
+#: Bandes
+msgid "cartridge_date_cartridge"
+msgstr "Date de mise en service"
+
+#: Bandes
+msgid "cartridge_archived"
+msgstr "Archivée"
+
+#: Vérifications
+msgid "verification_verification"
+msgid_plural "verification_verifications"
+msgstr[0] "Vérification"
+msgstr[1] "Vérifications"
+
+#: Planning
+msgid "planning_planning"
+msgstr "Planning"
+
+#: Planning
+msgid "planning_nextweek"
+msgstr "Semaine suivante"
+
+#: Planning
+msgid "planning_previousweek"
+msgstr "Semaine précédente"
+
+#: Planning
+msgid "planning_date"
+msgstr "Date de recherche"
